@@ -16,4 +16,6 @@
 		Open the file 'ide_algo.py' in Spyder --> Do a Select All on entire code --> Ctrl+Enter to run it
 	2] Enter the paths for training,validation & testing dataset paths followed by the pruning factor
 	3] The code will execute and provide the results in the output console.
+	
+>> Screenshots of the final output are present in the folder 'Output Screenshots'.
 
